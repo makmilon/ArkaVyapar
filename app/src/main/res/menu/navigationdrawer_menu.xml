@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_pfoile_nav"
+        android:title="@string/profileSetting"
+
+        />
+    <item android:id="@+id/menu_notification"
+        android:title="@string/noti"
+
+        />
+
+    <item android:id="@+id/menu_listed_product"
+        android:title="@string/listed_product"
+
+        />
+
+    <item android:id="@+id/menu_R_R_R_List"
+        android:title="@string/requ_list"
+
+        />
+
+ <!--   <item android:id="@+id/menu_C_R_List"
+        android:title="Coming Requrment List"
+
+        />-->
+
+<!--    <item android:id="@+id/menu_Fav_list"
+        android:title="My Favourite List"
+
+        />-->
+
+<!--    <item android:id="@+id/menu_Trans_List"
+        android:title="My Transaction History"
+
+        />-->
+
+<!--    <item android:id="@+id/menu_Track_list"
+        android:title="Activity Trackers"
+
+        />-->
+
+    <item android:id="@+id/menu_C_Care"
+        android:title="@string/customer_c"
+
+        />
+
+     <item android:id="@+id/menu_privacy"
+        android:title="Privacy Policy"/>
+
+
+
+    <item android:id="@+id/menu_logout"
+        android:title="@string/logOut"
+
+        />
+</menu>

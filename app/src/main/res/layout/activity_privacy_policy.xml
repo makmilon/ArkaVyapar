@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PrivacyPolicyActivity">
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:text="Following disclaimer governs your use of our app; by using our app, you accept these disclaimers in full. The products / information provided on this application are the views of registered users for marketing their products, it is a platform for users for negotiations in respect thereof for sale or supply of horticultural commodities.  ICAR-IIHR is not party to any negotiations that take place between the Users of the app or Web Site and are further not parties to any agreement including an agreement for sale or supply of horticultural commodities goods or services or otherwise, concluded between the Users of the App or Web Site.  ICAR-IIHR does not control and is not responsible for the quality, safety, genuineness, lawfulness or availability of the products or services offered for sale on the app or Web Site or the ability of the User selling the commodities to complete a sale or the ability of User purchasing commodities to complete a purchase. This agreement shall not be deemed to create any partnership/joint venture or any other business relationship between ICAR-IIHR and any other party.  Though all efforts have been made to keep the content of this application are accurate and up to date, We are not responsible for any damages or loss incurred due to the usage of the information appeared on this app or web application. The same should not be construed as a statement of law or used for any legal purpose."
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView32"
+        app:layout_constraintVertical_bias="0.127" />
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="176dp"
+        android:layout_marginTop="36dp"
+        android:layout_marginEnd="177dp"
+        android:text="Privacy Policy"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

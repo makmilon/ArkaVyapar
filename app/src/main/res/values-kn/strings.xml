@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಅರ್ಕ ವ್ಯಾಪಾರಿ</string>
+    <string name="termsandcondition">
+        <u>ನಿಯಮಗಳು &#38; ಸ್ಥಿತಿ</u>
+     </string>
+    <string name="changeLocationSetting">
+        <u>ಸ್ಥಳವನ್ನು ಬದಲಾಯಿಸಿ</u>
+    </string>
+
+    <string name="addfavarite">
+        <u>ಮೆಚ್ಚಿನವುಗಳನ್ನು ಸೇರಿಸಿ</u>
+    </string>
+    <string name="resendOtp">
+        <u>OTP ಅನ್ನು ಮರುಕಳುಹಿಸಿ</u>
+    </string>
+
+    <string name="open">ತೆರೆಯಿರಿ</string>
+    <string name="close">ಮುಚ್ಚಿ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Distance">%.f ಕಿಮೀ</string>
+
+    //login page
+    <string name="change_lang">ನಿಮ್ಮ ಭಾಷೆಯನ್ನು ಬದಲಾಯಿಸಿ</string>
+    <string name="app_login">ಲಾಗಿನ್ ಮಾಡಿ</string>
+    <string name="phoneNo">ದೂರವಾಣಿ ಸಂಖ್ಯೆ</string>
+    <string name="pass">ಗುಪ್ತಪದ</string>
+    <string name="confirm_pass">ಪಾಸ್ವರ್ಡ್ ದೃಢೀಕರಿಸಿ</string>
+
+    <string name="show_password">ಗುಪ್ತಪದವನ್ನು ತೋರಿಸು</string>
+    <string name="forgot_password">ಪಾಸ್ವರ್ಡ್ ಮರೆತಿರಾ ?</string>
+    <string name="signUp">ಇನ್ನೂ ಖಾತೆಯನ್ನು ಹೊಂದಿಲ್ಲವೇ? ಸೈನ್ ಅಪ್ ಮಾಡಿ</string>
+
+    //signup page agreement
+    <string name="well_come">ಅರ್ಕಾ ವ್ಯಾಪಾರಿಗೆ ಸುಸ್ವಾಗತ</string>
+    <string name="first_agreement">ಜಿಯೋಲೊಕೇಶನ್, ವರ್ಗ ಮತ್ತು \n ಲಭ್ಯತೆಯ ದಿನಾಂಕಗಳ ಆಧಾರದ ಮೇಲೆ ಫಲಿತಾಂಶಗಳನ್ನು ಪಡೆಯಿರಿ</string>
+    <string name="second_agreement">ಎಲ್ಲಾ ವಿವರಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳುವ ಮೂಲಕ ಪರಿಶೀಲಿಸಿದ ಟ್ಯಾಗ್ ಪಡೆಯಿರಿ</string>
+    <string name="third_agreement">ನಿಮ್ಮ ಉತ್ಪನ್ನವನ್ನು ಸುಲಭವಾಗಿ ಪಟ್ಟಿ ಮಾಡಲಾಗಿದೆ ಮತ್ತು ಪರಿಶೀಲಿಸಲಾಗಿದೆ ಖರೀದಿದಾರ \n ಸುಮಾರು</string>
+    <string name="aggree">ಒಪ್ಪುತ್ತೇನೆ &#38; ಮುಂದುವರಿಸಿ</string>
+
+    //signup page
+    <string name="signPage">ಸೈನ್ ಅಪ್ ಪುಟ</string>
+    <string name="userName">ಪೂರ್ಣ ಹೆಸರು</string>
+    <string name="userEmail">ಇಮೇಲ್ ವಿಳಾಸ</string>
+    <string name="sign_me_Up">ನನ್ನನ್ನು ಸೈನ್ ಅಪ್ ಮಾಡಿ!</string>
+
+    //OTP page
+    <string name="verifyPage">ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ಪರಿಶೀಲಿಸಲು ನಾವು ನಿಮಗೆ ಕೋಡ್ ಕಳುಹಿಸಿದ್ದೇವೆ</string>
+    <string name="send_to">ಕಳುಹಿಸು</string>
+    <string name="sendMessage">ಮುಂದುವರಿಸುವ ಮೂಲಕ ನೀವು SMS ಮೂಲಕ ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆಗೆ ಪರಿಶೀಲನೆ ಕೋಡ್ ಅನ್ನು ಸ್ವೀಕರಿಸುತ್ತೀರಿ. ಸಂದೇಶ ಮತ್ತು ಡೇಟಾ ದರಗಳು ಅನ್ವಯಿಸಬಹುದು</string>
+    <string name="dont_rec_otp">OTP ಸ್ವೀಕರಿಸಲಿಲ್ಲವೇ?</string>
+    <string name="very_conti">ಪರಿಶೀಲಿಸಿ &#38; ಮುಂದುವರಿಸಿ</string>
+
+    //Register As page
+    <string name="reg_as_seller">ನಾನು ಮಾರಾಟಗಾರ</string>
+    <string name="reg_as_buyer">ನಾನು ಖರೀದಿದಾರ</string>
+    <string name="next">ಮುಂದೆ</string>
+
+    //Profile Details page
+    <string name="profile_detail">ಪ್ರೊಫೈಲ್ ವಿವರಗಳು</string>
+    <string name="ta_selfie">ಸೆಲ್ಫಿ ತೆಗೆದುಕೊಳ್ಳಿ</string>
+    <string name="add_1">ವಿಳಾಸ ಸಾಲು 1</string>
+    <string name="add_2">ವಿಳಾಸ ಸಾಲು 2</string>
+    <string name="pincode">ಪಿನ್‌ಕೋಡ್</string>
+    <string name="state">ರಾಜ್ಯ</string>
+    <string name="aadhar_pic">ಆಧಾರ್ ಚಿತ್ರವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ (ಐಚ್ಛಿಕ)</string>
+
+    //GeoLocation page
+    <string name="geo_location">ಸ್ಥಳ</string>
+    <string name="geo_text">ನಿಮ್ಮ ಸ್ಥಳವನ್ನು ಹೊಂದಿಸಿ ಮತ್ತು ನಿಮ್ಮ ಪಟ್ಟಿ ಮಾಡಲಾದ ಉತ್ಪನ್ನವನ್ನು ಸುಲಭವಾಗಿ ಹುಡುಕಲು ಜನರಿಗೆ ಅವಕಾಶ ಮಾಡಿಕೊಡಿ</string>
+    <string name="current_location_text">ಪ್ರಸ್ತುತ ಸ್ಥಳವನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="select">ಆಯ್ಕೆ ಮಾಡಿ</string>
+
+    //Forget Password page
+    <string name="forget_pass">ಪಾಸ್ವರ್ಡ್ ಮರೆತಿರುವಿರಾ?</string>
+    <string name="submit">ಸಲ್ಲಿಸು</string>
+
+    //HomeFragment page
+    <string name="hello">ನಮಸ್ಕಾರ !</string>
+    <string name="search">ಹುಡುಕಿ</string>
+    <string name="to_market_rate">ಇಂದಿನ ಮಾರುಕಟ್ಟೆ ದರ</string>
+
+    <string name="nodataFound">ಅಂತಹ ಯಾವುದೇ ಉತ್ಪನ್ನ ಕಂಡುಬಂದಿಲ್ಲ</string>
+
+    //NavigationBar page
+    <string name="profileSetting">ಪ್ರೊಫೈಲ್ ಸೆಟ್ಟಿಂಗ್</string>
+    <string name="noti">ಅಧಿಸೂಚನೆ</string>
+    <string name="listed_product">ನನ್ನ ಪಟ್ಟಿ ಮಾಡಲಾದ ಉತ್ಪನ್ನಗಳು</string>
+    <string name="requ_list">ಅಗತ್ಯ ವಿನಂತಿ ಪಟ್ಟಿ</string>
+    <string name="customer_c">ಕಸ್ಟಮರ್ ಕೇರ್</string>
+    <string name="logOut">ಲಾಗ್ ಔಟ್</string>
+
+
+    //Seller List Item page
+    <string name="list_pro">ಪಟ್ಟಿ ಮಾಡಲಾದ ಉತ್ಪನ್ನ</string>
+    <string name="call_now">ಈಗ ಕರೆ ಮಾಡು</string>
+
+    //Search List Item page
+    <string name="quantity">ಪ್ರಮಾಣ:</string>
+    <string name="avl_date">Avl ದಿನಾಂಕ:</string>
+    <string name="name">ಹೆಸರು:</string>
+    <string name="distance">ದೂರ:</string>
+
+    //Message page
+    <string name="message">ಸಂದೇಶವನ್ನು ಇಲ್ಲಿ ಬರೆಯಿರಿ..</string>
+    <string name="message_txt">ಸಂದೇಶ ಪೆಟ್ಟಿಗೆ</string>
+    <string name="send">ಕಳುಹಿಸು</string>
+
+    //Profile page
+    <string name="update_profile">ಪ್ರೊಫೈಲ್ ಅನ್ನು ನವೀಕರಿಸಿ</string>
+    <string name="change_profile">ಪ್ರೊಫೈಲ್ ಬದಲಾಯಿಸಿ</string>
+    //Profile page
+    <string name="delete_profile">ಪ್ರೊಫೈಲ್ ಅಳಿಸಿ</string>
+
+    //Dialog delete buyer request layout
+    <string name="del_text">ನೀವು ಐಟಂ ಅನ್ನು ಅಳಿಸಲು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?</string>
+    <string name="yes_text">ಹೌದು</string>
+    <string name="no_text">ಸಂ</string>
+
+    //Dialog Logout layout
+    <string name="log_text">ನೀವು ಲಾಗ್ಔಟ್ ಮಾಡಲು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?</string>
+    <string name="log_delete">ನೀವು ಅಳಿಸಲು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?</string>
+
+    //Dialog HomePage layout
+    <string name="home_text">ನೀವು ಮುಖಪುಟಕ್ಕೆ ಹೋಗಲು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?</string>
+
+    //Dialog Customer Care layout
+    <string name="get_in_tough">ಸಂಪರ್ಕದಲ್ಲಿರಲು</string>
+    <string name="email">ಇಮೇಲ್</string>
+    <string name="c_message">ಸಂದೇಶ</string>
+
+    //Dialog Password update layout
+    <string name="update_password">ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ಅಪ್‌ಡೇಟ್ \n ಯಶಸ್ವಿಯಾಗಿ</string>
+    <string name="ok">ಸರಿ</string>
+
+
+    //upload product page
+    <string name="upload_productTxt">ನೀವು ಏನನ್ನು ಮಾರಾಟ ಮಾಡಲು ಬಯಸುತ್ತೀರಿ?</string>
+    <string name="add_pic">ಚಿತ್ರವನ್ನು ಸೇರಿಸಿ</string>
+    <string name="sub_cat">ಉಪವರ್ಗ</string>
+    <string name="avl_quan">ಲಭ್ಯವಿರುವ ಪ್ರಮಾಣ</string>
+    <string name="select_date">ದಿನಾಂಕವನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="save_btn">ಉಳಿಸಿ</string>
+
+    //Transaction History page
+    <string name="text_history">ಇತಿಹಾಸ</string>
+
+    //Terms and Condition page
+    <string name="terms_txt">ನಿಯಮಗಳು ಮತ್ತು ಷರತ್ತು</string>
+
+    //Product List page
+    <string name="product_txt">ಉತ್ಪನ್ನ ಪಟ್ಟಿ</string>
+
+
+    //Request List page
+    <string name="request_txt">ವಿನಂತಿಗಳ ಪಟ್ಟಿ</string>
+    <string name="requred_quantity">ಅಗತ್ಯವಿರುವ ಪ್ರಮಾಣ</string>
+
+    //Product List For Buyer page
+    <string name="add_prodcut_text">ವಿನಂತಿ ಪಟ್ಟಿಯನ್ನು ಸೇರಿಸಿ</string>
+
+    //More Product upadate Seller
+    <string name="add_more">ಇನ್ನಷ್ಟು ಸೇರಿಸಿ</string>
+
+    //Map View section
+    <string name="map_text">ಸ್ಥಳದ ಹತ್ತಿರ</string>
+
+    //Activity Main
+    <string name="today_market_rate">$ ಇಂದಿನ ಮಾರುಕಟ್ಟೆ ದರ</string>
+
+</resources>

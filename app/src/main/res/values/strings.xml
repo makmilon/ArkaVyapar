@@ -1,0 +1,174 @@
+<resources>
+    <string name="app_name">Arka Vyapar</string>
+
+    <string name="termsandcondition">
+        <u>Terms &#38; Condition</u>
+     </string>
+    <string name="changeLocationSetting">
+        <u>Change Location</u>
+    </string>
+
+    <string name="addfavarite">
+        <u>Add Favorite</u>
+    </string>
+    <string name="resendOtp">
+        <u>Resend OTP</u>
+    </string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Distance">%.2f Km</string>
+
+    //login page
+    <string name="change_lang">Change Your Language</string>
+    <string name="app_login">Login</string>
+    <string name="phoneNo">Phone no</string>
+    <string name="pass">Password</string>
+    <string name="confirm_pass">Confirm Password</string>
+
+    <string name="show_password">Show Password</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="signUp">Dont have an account yet? Sign Up</string>
+
+    //signup page agreement
+    <string name="well_come">Welcome To Arka Vyapar</string>
+    <string name="first_agreement">Get results based on Geo-Location, category and \n dates of availablity</string>
+    <string name="second_agreement">Get verified tag by sharing all details</string>
+    <string name="third_agreement">Listed your product easily and get verified Buyer \n nearly</string>
+    <string name="aggree">Agree &#38; Continue</string>
+
+    //signup page
+    <string name="signPage">Sign Up Page</string>
+    <string name="userName">Full Name</string>
+    <string name="userEmail">Email Address</string>
+    <string name="sign_me_Up">Sign me up!</string>
+
+    //OTP page
+    <string name="verifyPage">We sent you a code to verify your phone number</string>
+    <string name="send_to">send to</string>
+    <string name="sendMessage">By continuing you will receive a verification code to your phone number by SMS. Message and data rates may apply</string>
+    <string name="dont_rec_otp">Didnt receive OTP?</string>
+    <string name="very_conti">Verify &#38; Continue</string>
+
+    //Register As page
+    <string name="reg_as_seller">I am Seller</string>
+    <string name="reg_as_buyer">I am a Buyer</string>
+    <string name="next">Next</string>
+
+    //Profile Details page
+    <string name="profile_detail">Profile Details</string>
+    <string name="ta_selfie">Take Selfie</string>
+    <string name="add_1">Address line 1</string>
+    <string name="add_2">Address line 2</string>
+    <string name="pincode">Pincode</string>
+    <string name="state">State</string>
+    <string name="aadhar_pic">Take Aadhar Pic(Optional)</string>
+
+    //GeoLocation page
+    <string name="geo_location">Location</string>
+    <string name="geo_text">Set Your location and let people find your listed product easily</string>
+    <string name="current_location_text">Select Current Location</string>
+    <string name="select">Select</string>
+
+
+    //Forget Password page
+    <string name="forget_pass">Forget Password ?</string>
+    <string name="submit">Submit</string>
+
+    //HomeFragment page
+    <string name="hello">Hello !</string>
+    <string name="search">Search</string>
+    <string name="to_market_rate">Todays Market Rate</string>
+
+    <string name="nodataFound">No Such Product Found</string>
+
+    //NavigationBar page
+    <string name="profileSetting">Profile Setting</string>
+    <string name="noti">Notification</string>
+    <string name="listed_product">My Listed Products</string>
+    <string name="requ_list">Requirement Request List</string>
+    <string name="customer_c">Customer Care</string>
+    <string name="logOut">Logout</string>
+
+    //Seller List Item page
+    <string name="list_pro">Listed Product</string>
+    <string name="call_now">Call Now</string>
+
+    //Search List Item page
+    <string name="quantity">Quantity:</string>
+    <string name="avl_date">Avl Date:</string>
+    <string name="name">Name:</string>
+    <string name="distance">Distance:</string>
+
+    //Message page
+    <string name="message">Write Message here..</string>
+    <string name="message_txt">Message Box</string>
+    <string name="send">Send</string>
+
+
+    //Profile page
+    <string name="update_profile">Update Profile</string>
+    <string name="change_profile">Change Profile</string>
+
+    //Profile page
+    <string name="delete_profile">Delete Profile</string>
+
+    //Dialog delete buyer request layout
+    <string name="del_text">Are You sure you\n want to Delete Item ?</string>
+    <string name="yes_text">Yes</string>
+    <string name="no_text">No</string>
+
+    //Dialog Logout layout
+    <string name="log_text">Are You sure you want to logout ?</string>
+    <string name="log_delete">Are You sure you want to Delete ?</string>
+
+    //Dialog HomePage layout
+    <string name="home_text">Are You sure you want to go Home Page ?</string>
+
+    //Dialog Customer Care layout
+    <string name="get_in_tough">Get In Touch</string>
+    <string name="email">Email</string>
+    <string name="c_message">Message</string>
+
+    //Dialog Password update layout
+    <string name="update_password">Your Password Update \n Successfully</string>
+    <string name="ok">OK</string>
+
+    //upload product page
+    <string name="upload_productTxt">What would you like to Sell ?</string>
+    <string name="add_pic">Add Picture</string>
+    <string name="sub_cat">Sub-category</string>
+    <string name="avl_quan">Available Quantity</string>
+    <string name="select_date">Select Date</string>
+    <string name="save_btn">SAVE</string>
+
+    //Transaction History page
+    <string name="text_history">History</string>
+
+
+    //Terms and Condition page
+    <string name="terms_txt">Terms and Condition</string>
+
+    //Product List page
+    <string name="product_txt">Product List</string>
+
+    //Request List page
+    <string name="request_txt">Requests List</string>
+    <string name="requred_quantity">Required Quantity</string>
+
+    //Product List For Buyer page
+    <string name="add_prodcut_text">Add Request List</string>
+
+    //More Product upadate Seller
+    <string name="add_more">Add More</string>
+
+    //Map View section
+    <string name="map_text">Near Location</string>
+
+    //Activity Main
+    <string name="today_market_rate">$ Today Market Rate</string>
+
+</resources>
